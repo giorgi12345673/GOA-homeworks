@@ -1,1 +1,0 @@
-print("gio goderdzishvili, gabriel goderdzishvili , temo goderdzishvili, nino guriashvili, ilia goderdzishvili")
