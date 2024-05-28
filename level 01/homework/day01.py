@@ -1,4 +1,1 @@
-import turtle
-import random
-import pygame
-forward(90)
+print("ძალიან კარგათ ასწავლიან და თამაშებსაც აღარ ვთამაშობთ.")
