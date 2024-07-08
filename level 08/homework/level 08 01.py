@@ -10,21 +10,21 @@ print(lemur-lemur_mango)
 2
 print("Hello, world!")
 
-3)
+3
 x = 5
 print(x + 5)
 
-4)
+4
 a = 5
 b = 2
 print(a / b)
 
-5)
+5
 x = 5
 y = 10
 print(y/x)
 
-6)
+6
 age = "twenty-five"
 print(age + 5)
 
