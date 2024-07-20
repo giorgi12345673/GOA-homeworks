@@ -1,17 +1,17 @@
 # 1
-name = input ("giorgi miqautadze")
-print(name)
+name = input ("what is you name ")
+print(name)  
 
 # 2
-surname = input ("giorgi miqautadze")
-surname(name)
-birthday_card = input ("happy birthday, wish you the best.")
-
+surname = input ("what is you surname ")
+print (surname)
+birthday_card = input ("enter text ")
+print(birthday_card)
 
 # 3
 
-favorite_pet_color_car = input ("dog, fox, green, blue, black, bugatti.")
-
+favoirte_color_car_whatwever = input("enter favorite color, car wahatever: ")
+print(favoirte_color_car_whatwever)
 # 4
 #ინფუთი ნიშნავს ნებისმიერი ბრძანების ამუსავება. აუთფუთი კი ბძანებიდან გამოტანილ იმფორმაციას.
 
